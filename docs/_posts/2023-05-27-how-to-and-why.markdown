@@ -12,7 +12,7 @@ Yes, let me tend to my garden.
 
 
 Where do you start when building a website for yourself? Domain name purchase? Or, gosh, just domain name ideation? What a commitment. Hosting? A website builder? Which one?
-Yeesh. Analysis paralysis. This has always been the step (and it is really step 0) that I've gotten stuck at before.
+Yeesh. Analysis paralysis. This has always been the step that I've gotten stuck at before, and it's step 0!
 
 But of course, the answer for where to start is Reddit.
 Some cursory Redditing led me this time around to [GitHub Pages][github-pages-docs] + [Jekyll][jekyll-docs], which appealed for a couple of reasons:
