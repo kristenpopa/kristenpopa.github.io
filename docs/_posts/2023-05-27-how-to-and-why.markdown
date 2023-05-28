@@ -10,8 +10,8 @@ A personal website has been a long time coming for me. I'd started down the path
 
 Yes, let me tend to my garden.
 
----  
-
+---
+  
 Where do you start when building a website for yourself? Domain name purchase? Or, gosh, just domain name ideation? What a commitment. Hosting? A website builder? Which one?  
 Yeesh. Analysis paralysis. This has always been the step that I've gotten stuck at before, and it's step 0. Pathetic.
 
