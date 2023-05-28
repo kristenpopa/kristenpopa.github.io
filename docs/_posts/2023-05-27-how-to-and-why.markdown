@@ -9,7 +9,7 @@ A personal website has been a long time coming for me. I'd started down the path
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yea, I love making little tweaks to mine. Closest thing the web has to gardening</p>&mdash; Nabeel S. Qureshi (@nabeelqu) <a href="https://twitter.com/nabeelqu/status/1662503299797643266?ref_src=twsrc%5Etfw">May 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Yes, let me tend to my garden.
-
+***
 
 Where do you start when building a website for yourself? Domain name purchase? Or, gosh, just domain name ideation? What a commitment. Hosting? A website builder? Which one?
 Yeesh. Analysis paralysis. This has always been the step that I've gotten stuck at before, and it's step 0!
