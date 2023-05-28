@@ -1,0 +1,11 @@
+GitHub Pages:
+    https://docs.github.com/en/pages
+Jekyll:
+    https://jekyllrb.com/docs/
+Markdown cheatsheet: 
+    https://www.markdownguide.org/basic-syntax
+Free Jekyll themes: 
+    https://jekyllthemes.io/free
+To test changes:
+    Navigate to /docs folder in terminal
+    Run "bundle exec jekyll serve" 
