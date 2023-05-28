@@ -21,9 +21,11 @@
 title: Kristen Online
 email: kristenpopa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Considering this a home base for all things KP on the internet. You
+  can find me offline in Philadelphia, PA, if you know where to look.
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kristenpopa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kristenpopa
